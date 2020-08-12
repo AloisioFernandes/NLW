@@ -1,7 +1,7 @@
 # NLW
 <p>Aplicação desenvolvida durante o evento Next Level Week da Rocketseat.
 Ecoleta é um projeto que visa ajudar pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.</p>
-<p>Na aplicação web, donos de estabelecimentos podem cadastrar informações como localização, email, número de contato e tipos de resíduos que estão recebendo.</p>
+<p>Na aplicação web, donos de estabelecimentos podem cadastrar informações como localização, email, número de contato e tipos de itens que estão recebendo.</p>
 <p>No app mobile, o usuário consegue filtrar os estabelecimentos por estado, cidade e resíduos. Ao selecionar uma das localizações exibidas no mapa, o usuário pode entrar em contato com o estabelecimento através de email ou whatsapp.</p>
 
 # Web
